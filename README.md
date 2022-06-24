@@ -16,7 +16,7 @@ Graduando em Análise e Desenvolvimento de Sistemas</h3>
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="dani-git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
   <img align="center" alt="dani-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
-  <img align="center" alt="mssql" height="30" width="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"/>
+  <img align="center" alt="mssql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
 </div><br>
   
 <div> 
