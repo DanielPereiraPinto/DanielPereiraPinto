@@ -4,11 +4,10 @@ Graduando em Análise e Desenvolvimento de Sistemas</h3>
  ##
 <div align="center">
   <a href="https://github.com/DanielPereiraPinto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielPereiraPinto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielPereiraPinto&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielPereiraPinto&theme=vue-dark&show_icons=true&hide_border=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DanielPereiraPinto&theme=vue-dark&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielPereiraPinto&theme=vue-dark&show_icons=true&hide_border=false&layout=compact"/>
   
- 
  <div style="display: inline_block"><br>
   <h6> Studying the languages and improving skills in </h6>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
