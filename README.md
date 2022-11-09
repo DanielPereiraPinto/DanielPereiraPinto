@@ -1,6 +1,6 @@
 <h2 align="center">  Olá!!!   Eu sou Daniel Pereira Pinto<br>
 Graduando em Análise e Desenvolvimento de Sistemas<br>
-UNICSUL - EAD</h2>
+Universidade Cruzeiro do Sul - EAD</h2>
 
  ##
 <div align="center">
